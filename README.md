@@ -1,2 +1,2 @@
-# fetch_cuurent_weather
+# fetch_current_weather
 Fetching current weather using Python API
